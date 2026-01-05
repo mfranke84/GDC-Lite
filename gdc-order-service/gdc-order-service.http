@@ -1,0 +1,6 @@
+@gdc_order_service_HostAddress = http://localhost:5155
+
+GET {{gdc_order_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
